@@ -8,7 +8,7 @@ num = int(input('Digite um número: '))
 total = 0
 
 for c in range(1, num + 1):
-    if num % c == 0: #se o numero for divisivel pelo numero do contador
+    if num % c == 0:
         print('\033[34m', end='')
         total += 1
     else:
