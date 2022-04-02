@@ -7,5 +7,5 @@ from time import sleep
 
 for controle in range(10, -1, -1):
     print(controle)
-    sleep(0.5)
+    sleep(1)
 print('BUM!')
