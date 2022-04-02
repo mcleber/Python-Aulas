@@ -1,4 +1,3 @@
-#desafio 007
 #Faça um programa que leia as duas notas de um aluno, calcule e mostre sua média.
 
 nota1 = float(input("Primeira nota: "))
