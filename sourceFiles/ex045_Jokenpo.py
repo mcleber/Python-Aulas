@@ -8,8 +8,6 @@ from time import sleep
 item = ('Pedra', 'Papel', 'Tesoura')
 comp = randint(0, 2)
 
-#teste da escolha do computador
-# print('O computador escolheu: {}'.format(item[comp]))
 print('''OPÇÕES:
 [ 0 ] PEDRA
 [ 1 ] PAPEL
