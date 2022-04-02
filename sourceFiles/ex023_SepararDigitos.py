@@ -8,7 +8,7 @@ centena: 8
 milhar: 1
 '''
 num = int(input('Informe um número: '))
-u = num // 1 % 10 #pega o número e divide por 1 e pega o moludo de 10 (pega o numero, divide por 10 e pega o resto que é a unidade).
+u = num // 1 % 10
 d = num // 10 % 10
 c = num // 100 % 10
 m = num // 1000 % 10
