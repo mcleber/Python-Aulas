@@ -1,8 +1,8 @@
 # Aulas Python 3
 
-Vários exercícios feitos em aulas.
+Coletânia de exercícios.
 
-### Ordem de precedência em Python
+## Ordem de precedência em Python
 1. ( )
 2. ** (potenciação)
 3. *, /, //, %
