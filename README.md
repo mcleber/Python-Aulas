@@ -1,6 +1,6 @@
 # Aulas Python 3
 
-Coletânia de exercícios.
+Coletânea de exercícios.
 
 ## Ordem de precedência em Python
 1. ( )
